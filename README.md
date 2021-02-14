@@ -1,4 +1,4 @@
- ![](https://github.com/Sonarr/Sonarr/raw/phantom-develop/Logo/256.png =150x150) Sonarr-Docker
+ ![](https://github.com/Sonarr/Sonarr/raw/phantom-develop/Logo/256.png){:height="50%" width="50%"} Sonarr-Docker
 
 ---
 
