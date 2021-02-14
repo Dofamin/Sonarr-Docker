@@ -1,4 +1,4 @@
-# ![Image of Sonarr](https://github.com/Sonarr/Sonarr/raw/phantom-develop/Logo/256.png) Sonarr-Docker
+ ![](https://github.com/Sonarr/Sonarr/raw/phantom-develop/Logo/256.png =150x150) Sonarr-Docker
 
 ---
 
